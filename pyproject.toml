@@ -3,3 +3,4 @@ name = "potato"
 version = "0.1.0"
 description = "Free Easy AI visibility check - measure how often a brand is mentioned & cited in Claude's web-search answers. Deterministic, reproducible, runs 100% locally, $0 mock by default."
 requires-python = ">=3.10"
+# clarify the control flow
